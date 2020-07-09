@@ -1,4 +1,6 @@
-![Jaden Smith Meme](hello.gif)
+<p align="center">
+  <img align="center" src="hello.gif" width=1024 />
+</p>
 
 ### Hi there 👋 I’m Matt.
 
