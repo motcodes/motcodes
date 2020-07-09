@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://matthiasoberholzer.com">
-    <img alt="Matthias Oberholzer" src="./Logo.png" width="60" />
+    <img alt="Matthias Oberholzer" src="./MatthiasOberholzerLogoSquare.png" width="60" style="border-radius:50%;"/>
   </a>
 </p>
 
