@@ -1,3 +1,4 @@
 <img src="https://github.com/motcodes/motcodes/blob/master/hello.gif" width="100%">
 
-I am a young web developer with a passion for designing cool new stuff, coding something exciting, taking photos of everything, and enjoying some good rock music.
+Matthias is a student at the University of Applied Sciences Salzburg, Department Multimedia Technology - Web. Currently obsessed with WebGL and ThreeJS.
+
